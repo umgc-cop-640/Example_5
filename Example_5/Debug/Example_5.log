@@ -1,0 +1,4 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  example_5.c
+H:\Resources\C_code_examples\Example_5\Example_5\example_5.c(35,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char *'
+  Example_5.vcxproj -> H:\Resources\C_code_examples\Example_5\Example_5\Debug\Example_5.exe
